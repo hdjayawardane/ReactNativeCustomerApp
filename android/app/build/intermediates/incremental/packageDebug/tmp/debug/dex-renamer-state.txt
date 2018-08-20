@@ -1,0 +1,4 @@
+#Mon Aug 20 09:18:57 IST 2018
+base.0=/Users/Himal/Documents/dev/Order/Order/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
