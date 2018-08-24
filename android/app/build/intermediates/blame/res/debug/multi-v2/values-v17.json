@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Himal/Documents/dev/Order/Order/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/Users/Himal/Documents/dev/Order/ReactNativeCustomerApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
                     "source": "/Users/Himal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/1f42ef21259736a32fdfca6e4a5b4f17/res/values-v17/values-v17.xml",

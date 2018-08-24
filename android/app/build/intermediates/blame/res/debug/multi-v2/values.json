@@ -1,29 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Himal/Documents/dev/Order/Order/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/Himal/Documents/dev/Order/ReactNativeCustomerApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/Himal/Documents/dev/Order/Order/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/Himal/Documents/dev/Order/ReactNativeCustomerApp/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "3",
+                        "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "177"
+                        "startOffsets": "16",
+                        "endColumns": "42",
+                        "endOffsets": "54"
                     },
                     "to": {
-                        "startLines": "292",
+                        "startLines": "258",
                         "startColumns": "4",
-                        "startOffsets": "35102",
-                        "endLines": "294",
-                        "endColumns": "12",
-                        "endOffsets": "35225"
+                        "startOffsets": "31587",
+                        "endColumns": "42",
+                        "endOffsets": "31625"
                     }
                 },
                 {
-                    "source": "/Users/Himal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/66eee6e49943291cb052560858ee22e3/res/values/values.xml",
+                    "source": "/Users/Himal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/cd8729ad9aeaf70d2d87ed51c98cc26c/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,33,36,39,42,45,49,53,56,59,62,65,66,67,74,81,84,87,90,96",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -61,20 +59,22 @@
                     }
                 },
                 {
-                    "source": "/Users/Himal/Documents/dev/Order/Order/android/app/src/main/res/values/strings.xml",
+                    "source": "/Users/Himal/Documents/dev/Order/ReactNativeCustomerApp/android/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "42",
-                        "endOffsets": "54"
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "177"
                     },
                     "to": {
-                        "startLines": "258",
+                        "startLines": "292",
                         "startColumns": "4",
-                        "startOffsets": "31587",
-                        "endColumns": "42",
-                        "endOffsets": "31625"
+                        "startOffsets": "35102",
+                        "endLines": "294",
+                        "endColumns": "12",
+                        "endOffsets": "35225"
                     }
                 }
             ]
